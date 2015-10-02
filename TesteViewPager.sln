@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteViewPager", "TesteViewPager\TesteViewPager.csproj", "{CB251644-1E55-4241-B521-3947204EA1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteViewPager.UITests", "TesteViewPager.UITests\TesteViewPager.UITests.csproj", "{60486AFC-EAD3-4C02-B0F2-B9B33B687782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60486AFC-EAD3-4C02-B0F2-B9B33B687782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60486AFC-EAD3-4C02-B0F2-B9B33B687782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60486AFC-EAD3-4C02-B0F2-B9B33B687782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60486AFC-EAD3-4C02-B0F2-B9B33B687782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB251644-1E55-4241-B521-3947204EA1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB251644-1E55-4241-B521-3947204EA1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB251644-1E55-4241-B521-3947204EA1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB251644-1E55-4241-B521-3947204EA1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
